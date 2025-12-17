@@ -1,0 +1,20 @@
+DOCUMENT PROCESSOR PERFORMANCE REPORT
+==================================================
+
+SUMMARY STATISTICS
+--------------------
+Total images processed: 3
+Average processing time: 177.9ms
+Median processing time: 184.0ms
+Min/Max processing time: 161.2ms / 188.6ms
+Target met (<100ms): 0/3 (0.0%)
+Average confidence: 0.517
+Average detected angle: 13.33°
+
+DETAILED RESULTS
+--------------------
+File                           Time(ms)   Angle(°)   Confidence   Target Met  
+--------------------------------------------------------------------------
+test_document_01_angle_15.1.jpg 188.6      -15.00     0.492        No          
+test_document_02_angle_-12.8.jpg 184.0      13.00      0.522        No          
+test_document_03_angle_11.7.jpg 161.2      -12.00     0.538        No          
